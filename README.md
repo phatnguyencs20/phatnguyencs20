@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 <!--
 **phatnguyencs20/phatnguyencs20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>📊 GitHub Stats </h2>
+# About me
+
+
+# 📊 GitHub Stats
 
 ![](https://github-profile-trophy.vercel.app/?username=phatnguyencs20&theme=synthwave)
 
