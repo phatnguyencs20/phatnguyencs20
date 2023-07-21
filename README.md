@@ -5,9 +5,8 @@
 -->
 
 ## 👨🏽‍💻 About me
-* 🌱 I'm currently in my junior year at Ho Chi Minh City University of Technology.
+* 🌱 I'm currently in my final year at Ho Chi Minh City University of Technology.
 * 🤖 I'm immersing myself into the beauty of ML and Data Science.
-* 🕵🏽 I'm seeking for an internship opportunity in Artificial Intelligence, Software Engineering and Data Science.
 
 ## 📞 You can contact me via
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/phaticism)
